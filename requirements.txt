@@ -10,3 +10,5 @@ aiohttp
 flask
 nest_asyncio
 python-dotenv
+shortzy
+pytz
